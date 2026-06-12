@@ -40,7 +40,7 @@
 ```
 EID_MATE1133/
 │
-├── main.py                  # Interfaz gráfica y lógica de la aplicación
+├── mathlimites.py                  # Interfaz gráfica y lógica de la aplicación
 ├── calculador_limites.py    # Motor de cálculo de límites
 └── README.md                # Este archivo
 ```
@@ -65,7 +65,7 @@ pip install customtkinter sympy matplotlib
 ### 3. Ejecutar la aplicación
 
 ```bash
-python main.py
+python mathlimites.py
 ```
 
 ---
