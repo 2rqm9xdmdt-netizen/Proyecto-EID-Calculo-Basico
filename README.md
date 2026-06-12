@@ -97,9 +97,8 @@ python main.py
 
 | Nombre | 
 |---|
-| Integrante 1 |
-| Integrante 2 |
-| Integrante 3 |
+| Gabriel Rivas |
+| Franco González |
 
 ---
 
