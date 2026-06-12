@@ -6,7 +6,7 @@
 
 ## 📋 Descripción
 
-**Math Límites** es una aplicación de escritorio desarrollada en Python que permite calcular y visualizar límites matemáticos de forma interactiva. La aplicación muestra el proceso de resolución paso a paso, integrando la teoría del cálculo de límites con una interfaz gráfica moderna.
+**Math Límites** es una aplicación desarrollada en Python que permite calcular y visualizar límites matemáticos de forma interactiva. La aplicación muestra el proceso de resolución paso a paso, integrando la teoría del cálculo de límites con una interfaz gráfica.
 
 ---
 
