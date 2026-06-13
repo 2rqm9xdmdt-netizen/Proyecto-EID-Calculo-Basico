@@ -40,7 +40,7 @@
 ```
 EID_MATE1133/
 │
-├── mathlimites.py                  # Interfaz gráfica y lógica de la aplicación
+├── mathlimites.py           # Interfaz gráfica y lógica de la aplicación
 ├── calculador_limites.py    # Motor de cálculo de límites
 └── README.md                # Este archivo
 ```
