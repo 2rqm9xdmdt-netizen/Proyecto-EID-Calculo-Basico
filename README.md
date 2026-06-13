@@ -31,7 +31,7 @@
 | `SymPy` | Cálculo simbólico y manipulación algebraica |
 | `Matplotlib` | Visualización y graficación de funciones |
 
-> ⚠️ **Nota:** No se utiliza NumPy ni Math en este proyecto, siguiendo las restricciones del enunciado.
+> ⚠️ **Nota:** No se utiliza NumPy ni Math en este proyecto .
 
 ---
 
